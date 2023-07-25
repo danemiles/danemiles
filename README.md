@@ -1,6 +1,7 @@
 ### 👋 Hey, I’m Dane. ###
 
 - 👀 I’m interested in product management, data science, software development, and sports analytics
+- 🧠 Learning about AWS, ML, java
 - 📫 How to reach me: danestevenmiles@gmail.com
 
 <!---
