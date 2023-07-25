@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @danemiles
-- 👀 I’m interested in data science, data viz, sports analytics, macroeconomics
-- 💞️ I’m looking to collaborate on any sort of sports / econ / finance projects
+### 👋 Hey, I’m Dane. ###
+
+- 👀 I’m interested in product management, data science, software development, and sports analytics
 - 📫 How to reach me: danestevenmiles@gmail.com
 
 <!---
