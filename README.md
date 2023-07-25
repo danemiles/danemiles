@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in product management, data science, software development, and sports analytics
 - 🧠 Learning about AWS, ML, java
-- 📫 How to reach me: danestevenmiles@gmail.com
+- 📫 Send any notes or fantasy football draft philosophies to: danestevenmiles@gmail.com
 
 <!---
 danemiles/danemiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
