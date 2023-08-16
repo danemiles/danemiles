@@ -1,6 +1,6 @@
 ### 👋 Hey, I’m Dane. ###
 
-- 👀 I’m interested in product management, data science, software development, and sports analytics
+- 👀 I’m interested in all things data
 - 🧠 Learning about AWS, ML, java
 - 📫 Send any notes or fantasy football draft philosophies to: danestevenmiles@gmail.com
 
