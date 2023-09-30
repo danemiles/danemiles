@@ -1,7 +1,7 @@
 ### 👋 Hey, I’m Dane. ###
 
 - 👀 I’m interested in all things data
-- 🧠 Learning about AWS, ML, java
+- 🧠 Learning about ML, data science
 - 📫 Send any notes or fantasy football draft philosophies to: danestevenmiles@gmail.com
 
 <!---
